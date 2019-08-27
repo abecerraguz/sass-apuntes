@@ -1,0 +1,18 @@
+.blog{
+	background:$white;
+	display: block
+}
+
+.blog time{
+	font-family: $text-font-playfair;
+	color: $Nickel;
+	font-size:$x-large;
+	font-weight: 900;
+	margin: 60px 0;
+	display: block;
+}
+
+.blog p{
+	margin-bottom: 30px;
+	line-height: 250%;
+}

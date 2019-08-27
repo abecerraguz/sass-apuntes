@@ -1,0 +1,46 @@
+header{
+	width: 100%;
+	height: auto;
+	margin:0;
+	padding: 0;
+	position: relative;
+	display: block;
+	clear: both;
+	figure{
+		width: 100%;
+		img{
+			width: 100%;
+			height: auto;
+		}
+		figcaption{
+			width: 100%;
+			max-width: 35%;
+			text-align:center;
+			position: absolute;
+			top: 45%;
+			bottom: 45%;
+			left:30%;
+			right:30%;
+			z-index: 1;
+			h1{
+				font-family:$text-font-playfair;
+				font-size:$xx-large;
+				font-weight: 900;
+				font-style: italic;
+			}
+		}
+	}
+
+
+}
+
+header figure .arrow{
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	bottom:60px;
+	i{
+		color:$white;
+		font-size:$xx-large; 
+	}
+}

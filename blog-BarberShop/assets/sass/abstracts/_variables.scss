@@ -1,0 +1,45 @@
+//Importanmos la Tipografía desde google Font
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,900i|Roboto:300,400&display=swap');
+
+// Familia Tipográfica
+$text-font-roboto:'Roboto', sans-serif!default;
+$text-font-playfair:'Playfair Display', serif!default;
+
+// Paleta de Colores
+$white:#ffff;
+$platinum:#e6e7e7;
+$lightGray:#d1d1d1;
+
+
+$fuzzyWuzzy:#e56353;
+$rudyPink:#D76C69;
+$spanishPink:#ECBCBA;
+
+$eerieBlack:#121619;
+$RaisinBlack:#222323;
+$Nickel:#6c6e70;
+
+// Font Sizes
+$xx-large:70px;
+$x-large:30px;
+$large:18px;
+$medium:16px;
+$small:12px;
+
+//Font Weight
+$regular:400;
+$light:300;
+$playfair:900;
+
+//Color-textos
+$primary:#e56353;
+$secundary:#222323;
+$light:#d1d1d1;
+$dark:#121619;
+
+//Container
+$max-width:80%!default;
+
+
+
+

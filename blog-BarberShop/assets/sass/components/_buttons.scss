@@ -1,0 +1,52 @@
+/*Inicio Buttons*/
+.btn-mediumButtons{
+	padding:20px 40px;
+	margin: 20px 0;
+	background: $Nickel;
+	color: $white;
+	font-size: $medium;
+	text-decoration: none;
+	border-radius: 40px;
+	transition: all 0.3s ease-in-out;
+	display: inline-block;
+	&:hover{
+		margin: 20px 0;
+		background:$lightGray;
+		color:black;
+		display: inline-block;
+	}
+	&:focus{
+		margin: 20px 0;
+		background:$Nickel;
+		border:1px solid $lightGray;
+		color:$RaisinBlack;
+		display: inline-block;
+	}
+}
+
+.btn-smallButtons{
+	padding: 20px 60px;
+	margin: 20px 0;
+	background: $Nickel;
+	color: $white;
+	font-size: $medium;
+	text-decoration: none;
+	border-radius: 40px;
+	transition: all 0.3s ease-in-out;
+	display: inline-block;
+	&:hover{
+		margin: 20px 0;
+		background:$lightGray;
+		color:black;
+		display: inline-block;
+	}
+	&:focus{
+		margin: 20px 0;
+		background:$Nickel;
+		border:1px solid $lightGray;
+		color:$RaisinBlack;
+		display: inline-block;
+	}
+}
+
+/*Cierre Buttons*/

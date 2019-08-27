@@ -1,0 +1,35 @@
+/*Inicio Link*/
+a.active:link{
+	color:$primary!important;
+	font-size: $medium!important;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+	&:hover{
+		color:$light!important;
+		font-size:$medium!important;
+		text-decoration: none;
+	}
+	&:active{
+		color:$light!important;
+		font-size:$medium!important;
+		text-decoration: none;
+	}
+}
+
+a{
+	color:$white!important;
+	font-size: $medium!important;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+	&:hover{
+		color:$light!important;
+		font-size:$medium!important;
+		text-decoration: none;
+	}
+	&:active{
+		color:$light!important;
+		font-size:$medium!important;
+		text-decoration: none;
+	}
+}
+/*Cierre de Link*/

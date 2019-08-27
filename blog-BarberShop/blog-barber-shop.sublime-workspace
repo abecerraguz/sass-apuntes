@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"abs",
+				"absolute\tposition"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"n",
+				"none\ttext-transform"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"me",
+				"middle\tvertical-align"
+			],
+			[
+				"ce",
+				"center\ttext-align"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"inle",
+				"inline-block\tdisplay"
+			],
+			[
+				"column-ru",
+				"column-rule-style\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"stye",
+				"list-style\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"table-c",
+				"table-cell\tdisplay"
+			],
+			[
+				"ta",
+				"table\tdisplay"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"TRA",
+				"transition\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"S",
+				"style.css"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"e",
+				"each\t.each()"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"pre",
+				"prepend\t( nodes_..: Node|DOMString ): void Element"
+			],
+			[
+				"promp",
+				"prompt"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"c",
+				"table-cell\tdisplay"
+			],
+			[
+				"backgroun",
+				"background-repeat\tproperty"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ina",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Close"
+			],
+			[
+				"",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 540.0,
+		"history":
+		[
+			"cd",
+			"ls",
+			"'6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alejandro_becerra/Documents/GitHub/apuntes_git/apuntes_git.txt",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/index.html",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_blog-info.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_footer.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/abstracts/_variables.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_nav.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/base/_typography.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/main.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_main-blog.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_header.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/components/_buttons.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_pagination.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/components/_bg-color.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/components/_links.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/base/_reset.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_section-nosotros.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_section-noticias.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_contacto.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_grid.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/bootstrap.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/vendor/bootstrap_v4.3/_functions.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/css/bootstrap.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/css/bootstrap.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/vendor/_jumbotron.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/scss/_alert.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/vendor/bootstrap.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/scss/bootstrap.css",
+		"/Users/alejandro_becerra/Downloads/bootstrap-4.3.1/bootstrap.scss",
+		"/Users/alejandro_becerra/Downloads/bootstrap-4.3.1/scss/vendor/_rfs.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/index.html",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/main.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_footer.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_contacto.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/components/_buttons.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/utils/_variables.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_section-noticias.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_scontacto.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_section-nosotros.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_header.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_nav.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_grid.scss",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseno_de_Interfaz/Evaluaciones/EVA_03/280619/Evaluación_viernes-12-07-19",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/base/_reset.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_section.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/base/_typography.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/utils/untitled",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/..css/main.css",
+		"/Users/alejandro_becerra/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/alejandro_becerra/Desktop/HTML5-Travel/index.html",
+		"/Users/alejandro_becerra/Desktop/unidad_III_Eva_6_7_nombre_alumno_apellido/index.html",
+		"/Users/alejandro_becerra/Desktop/unidad_III_Eva_6_7_nombre_alumno_apellido/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/unidad_III_Eva_6_7_nombre_alumno_apellido/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/unidad_III_Eva_6_7_nombre_alumno_apellido/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Copia de HTML5-Travel/css/main.css",
+		"/Users/alejandro_becerra/Desktop/flecha.svg",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/unidad_III_Eva_6_7_nombre_alumno_apellido/position.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/unidad_III_Eva_6_7_nombre_alumno_apellido/img/location.svg",
+		"/Users/alejandro_becerra/Downloads/Blearning-Frontend-EWP1CP1A1-master/readme.md",
+		"/Users/alejandro_becerra/Desktop/themes-html5-Rocks/readme.md",
+		"/Users/alejandro_becerra/Downloads/themes_aach-master/themes_aach/index.php",
+		"/Users/alejandro_becerra/Downloads/themes_aach-master/themes_aach/single-boletines-estadisticos-corredores.php",
+		"/Users/alejandro_becerra/Documents/2019/sitios/themes-html5-Rocks/readme.md",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/index.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/intro.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/untitled",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/style.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/twentynineteen/style.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/header.php",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseño_de_Interfaz/Evaluaciones/EVA_03/280619/Prueba 3 Disenio de Interfaz/editores.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseño_de_Interfaz/Evaluaciones/EVA_03/280619/Prueba 3 Disenio de Interfaz/filtros.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseño_de_Interfaz/Evaluaciones/EVA_03/280619/Prueba 3 Disenio de Interfaz/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseño_de_Interfaz/Evaluaciones/EVA_03/280619/Prueba 3 Disenio de Interfaz/canal.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseño_de_Interfaz/Evaluaciones/EVA_03/280619/Prueba 3 Disenio de Interfaz/backup/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Taller Diseño Web/Evaluaciones/TDW_Eva_05_06_07/Entrega_Eva_5_7/Alexis Javier Ibanez Espinoza/HTML5_ROCKS_TALLER_DISENO_WEB_Alexis_Ibanez/index.html",
+		"/Users/alejandro_becerra/Desktop/Alias de Eva-ricomida",
+		"/Users/alejandro_becerra/Documents/2019/sass/apuntes_sass.txt",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/html5-Rocks-Flex/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/html5-Rocks-Flex/css/main.css",
+		"/Users/alejandro_becerra/Desktop/demo-imagen-texto-position/index.html",
+		"/Users/alejandro_becerra/Desktop/demo-imagen-texto-position/main.css",
+		"/Users/alejandro_becerra/Desktop/houstel-site/assets/sass/base/_base.scss",
+		"/Users/alejandro_becerra/Desktop/houstel-site/assets/css/main.css",
+		"/Users/alejandro_becerra/Desktop/houstel-site/assets/sass/base/_reset.scss",
+		"/Users/alejandro_becerra/Desktop/houstel-site/assets/sass/base/_typography.scss",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/HTML5-Travel/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/HTML5-Travel/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Tutoriales/html5-Rocks-Introduccion-tecnologias-web/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Tutoriales/html5-Rocks-Introduccion-tecnologias-web/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/clases/Produccion_Web_Mobile/ejercicios_nivelacion/css/main.css",
+		"/Users/alejandro_becerra/Desktop/houstel-site/index.html",
+		"/Users/alejandro_becerra/Desktop/houstel-site/assets/sass/abstracts/_variables.scss",
+		"/Users/alejandro_becerra/Desktop/houstel-site/assets/sass/main.scss",
+		"/Users/alejandro_becerra/Desktop/test_sass/styles.scss",
+		"/Users/alejandro_becerra/Desktop/test_sass/index.html",
+		"/Users/alejandro_becerra/Desktop/test_sass/styles.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/page-prescription-products-acf.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/._functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/page-prescription-products_proceso.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/page-prescription-products-acf.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/untitled.sublime-project",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Tutoriales/html5-Rocks-Introduccion-tecnologias-web/HTML5-rocks.sublime-project",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab/functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes_lab01/style.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-config.php",
+		"/Users/alejandro_becerra/Documents/2019/clases/Taller Diseño Web/Evaluaciones/TDW_Eva_05_06_07/html5-rocks-taller-diseno-web/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseño_de_Interfaz/Evaluaciones/EVA_03/280619/Arantxa Caceres/integrantes.txt",
+		"/Users/alejandro_becerra/Desktop/html5-rocks-taller-diseno-web/index.html",
+		"/Users/alejandro_becerra/Desktop/html5-rocks-taller-diseno-web/css/main.css",
+		"/Users/alejandro_becerra/Desktop/html5-rocks-taller-diseno-web/browserconfig.xml",
+		"/Users/alejandro_becerra/Desktop/html5-rocks-taller-diseno-web/404.html",
+		"/Users/alejandro_becerra/Desktop/html5-rocks-taller-diseno-web/.editorconfig",
+		"/Users/alejandro_becerra/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/alejandro_becerra/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/alejandro_becerra/Desktop/html5-Rocks-Introduccion-tecnologias-web/index.html",
+		"/Users/alejandro_becerra/Desktop/html5-Rocks-Introduccion-tecnologias-web/css/main.css",
+		"/Users/alejandro_becerra/Desktop/html5-boilerplate_v7.2.0/404.html",
+		"/Users/alejandro_becerra/Desktop/03_html5_rocks/index.html",
+		"/Users/alejandro_becerra/Desktop/html5-boilerplate_v7.2.0/css/main.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/themes_claselatam_03/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/pharmacor.sublime-project",
+		"/Users/alejandro_becerra/Desktop/page-prescription-products.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/js/main.js",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/clase_latam/wp-content/themes/pharmacor/page-prescription-products.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog-barber-shop.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

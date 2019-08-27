@@ -1,0 +1,37 @@
+.paginacion{
+	background: $lightGray;
+	padding: 50px 0;
+	border-top: 1px solid $lightGray;
+	text-align: center;
+}
+
+.paginacion nav{
+	margin: 10px 0;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: 1rem 1.5rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: $RaisinBlack!important;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+a.page-link.active {
+    background:$RaisinBlack;
+    color:$white!important;
+}
+
+.page-item:first-child .page-link {
+    margin-left: 0;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.page-item:last-child .page-link {
+    border-top-right-radius:1rem;
+    border-bottom-right-radius:1rem;
+}
