@@ -179,5 +179,36 @@ Los modificadores, son parte del elemento (y del bloque), por lo que para separa
 }
 ~~~
 
+## Ejemplo de SCSS
+~~~
+
+.section-wrapper {
+  font-family: $primary-font;
+  font-weight: $primary-font-regular;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.nosotros{
+  @extend .section-wrapper;
+  background-color: $jean-bean;
+  color: $white;
+  display: table;
+  font-size: $font-size-large;
+  padding: 150px 0;
+  text-align: center;
+
+  &__title {
+    display: table-cell;
+    font-weight: $primary-font-extra-light;
+    vertical-align: middle;
+
+    &--highlighted-text {
+      font-weight: $primary-font-bold;
+      text-transform: uppercase;
+    }
+  }
+}
+~~~
 
 </section>
