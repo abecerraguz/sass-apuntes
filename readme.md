@@ -99,10 +99,10 @@ sass/
 ## REALIZAR LA COMPILACIÓN
 - `sass --watch styles.scss:styles.css`
 
-## BEM/Element Modifier (BEM) o Modificador de Bloques de Elementos.
-~~~
-   BEM constituye la metodología que usaremos para nombrar y clasificar selectores CSS de manera estricta, transparente e informativa. Este método se basa en `nombrar las clases en un modo muy específico`, ayudándonos a distinguir de manera simple de qué objeto hablamos y si tiene o no aplicado algún tipo de modificador en su estilo, ya sea por interacción del usuario, o por tipología del objeto. Cuando utilicemos la metodología BEM, deberemos tener en cuenta que solamente usaremos nombres de clases, nunca IDs, para fomentar así la reutilización de código.
-~~~
+## BEM / Element Modifier (BEM) o Modificador de Bloques de Elementos.
+
+BEM constituye la metodología que usaremos para nombrar y clasificar selectores CSS de manera estricta, transparente e informativa. Este método se basa en `nombrar las clases en un modo muy específico`, ayudándonos a distinguir de manera simple de qué objeto hablamos y si tiene o no aplicado algún tipo de modificador en su estilo, ya sea por interacción del usuario, o por tipología del objeto. Cuando utilicemos la metodología BEM, deberemos tener en cuenta que solamente usaremos nombres de clases, nunca IDs, para fomentar así la reutilización de código.
+
 
 ## Como su nombre indica, BEM distingue claramente 3 conceptos: el Bloque, el Elemento y el Modificador.
 
