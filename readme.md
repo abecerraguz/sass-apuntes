@@ -1,11 +1,13 @@
 <section>
 
+![SASS](sass.png)
+
 # APUNTES SASS
 Debemos tener instalado Node.js y NPM para saber si esta instalado se escribe en el terminal
 
 - node --version
 - npm --version
-- yarn --version
+
 
 ## INSTALANDO SASS
 
