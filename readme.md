@@ -137,12 +137,13 @@ main-header__lang-chooser—isOpen
 ## EJEMPLO
 ![SASS](interaction.jpeg)
 
-~~~
+
 Los botones y el logo, están metidos en un bloque. (borde rojo)
 Este bloque no depende de ningún otro elemento. Se puede poner en cualquier parte de la página y no cambia en nada.
 
 Ahora analizemos los botones.
 Estos 3 botones comparten ciertas características.
+
 -El padding es el mismo.
 -El margen es el mismo.
 -El tipo de letra es el mismo.
@@ -157,9 +158,9 @@ El color de la letra.
 
 El color de fondo del botón.
 Modifier sería reglas particulares de cada elemento.
-~~~
 
-##Reglas de escritura CSS en BEM
+
+## Reglas de escritura CSS en BEM
 
 Para el bloque solo lo escribimos como si fuera una clase normal:
 ~~~
