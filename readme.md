@@ -129,7 +129,7 @@ Figura como una pieza concreta, de un Bloque cualquiera, que cumple una función
 ## El Modificador
 Son las entidades que usaremos para definir la apariencia o comportamiento de un Bloque o Elemento concreto. Su uso es opcional, pero nos será muy útil para separar claramente el objeto de su estilo gráfico.
 
-Ejemplo de Modificador podemos tener un Menu de navegación que es un bloque que esta situado en el header, en si es un objeto único , pero tambien lo deseamos integrar en el footer, es ahí donde aparencen los modificadores, `<b>recuerden los modificadores son aplicables tanto para los Bloques como para los elementos"`:
+Ejemplo de Modificador podemos tener un Menu de navegación que es un bloque que esta situado en el header, en si es un objeto único , pero tambien lo deseamos integrar en el footer, es ahí donde aparencen los modificadores, __recuerden los modificadores son aplicables tanto para los Bloques como para los elementos"__ Ejemplo:
 
 ~~~
 .main-menu (bloque)
