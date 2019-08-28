@@ -99,16 +99,17 @@ sass/
 ## REALIZAR LA COMPILACIÓN
 - `sass --watch styles.scss:styles.css`
 
-## BEM / Element Modifier (BEM) o Modificador de Bloques de Elementos.
+## BEM / Bloque, Elemento, Modificador.
 
-BEM constituye la metodología que usaremos para nombrar y clasificar selectores CSS de manera estricta, transparente e informativa. Este método se basa en `nombrar las clases en un modo muy específico`, ayudándonos a distinguir de manera simple de qué objeto hablamos y si tiene o no aplicado algún tipo de modificador en su estilo, ya sea por interacción del usuario, o por tipología del objeto. Cuando utilicemos la metodología BEM, deberemos tener en cuenta que solamente usaremos nombres de clases, nunca IDs, para fomentar así la reutilización de código.
+BEM constituye la metodología que usaremos para nombrar y clasificar selectores CSS de manera estricta, transparente e informativa. Este método se basa en `<b>nombrar las clases en un modo muy específico, ayudándonos a distinguir de manera simple de qué objeto hablamos y si tiene o no aplicado algún tipo de modificador en su estilo, ya sea por interacción del usuario, o por tipología del objeto.` Cuando utilicemos la metodología BEM, deberemos tener en cuenta que solamente usaremos nombres de clases, nunca IDs, para fomentar así la reutilización de código.
 
 
 ## Como su nombre indica, BEM distingue claramente 3 conceptos: el Bloque, el Elemento y el Modificador.
 
 ## El Bloque
-Representa la entidad independiente, es decir, el `objeto al que aplicar el estilo.` Un bloque puede componerse de otros bloques. Un buscador simple es un bloque simple, mientras que la cabecera de una web es un bloque compuesto.
-Para ejemplificarlo pensaremos en la cabecera de una web: pondremos la clase de nuestro bloque como
+Representa la entidad independiente y unica, es decir, el `objeto al que aplicar el estilo.` Un bloque puede componerse de otros bloques. Un buscador simple es un bloque simple, mientras que la cabecera de una web es un bloque compuesto.
+
+Para ejemplificarlo pensaremos en la cabecera de una web: pondremos la clase de nuestro bloque como:
 ~~~
 .main-header
 ~~~
@@ -127,7 +128,16 @@ Figura como una pieza concreta, de un Bloque cualquiera, que cumple una función
 
 ## El Modificador
 Son las entidades que usaremos para definir la apariencia o comportamiento de un Bloque o Elemento concreto. Su uso es opcional, pero nos será muy útil para separar claramente el objeto de su estilo gráfico.
-Los Modificadores los representaremos con doble guión, por ejemplo:
+
+Ejemplo de Modificador podemos tener un Menu de navegación que es un bloque que esta situado en el header, en si es un objeto único , pero tambien lo deseamos integrar en el footer, es ahí donde aparencen los modificadores, `<b>recuerden los modificadores son aplicables tanto para los Bloques como para los elementos"`:
+
+~~~
+.main-menu (bloque)
+.main-menu-item (elementos __ )
+.main-menu--footer (modificador --)
+~~~
+
+Los Modificadores los representaremos con doble guión, ejemplo:
 
 ~~~
 main-header__lang-chooser
@@ -213,5 +223,64 @@ Los modificadores, son parte del elemento (y del bloque), por lo que para separa
   }
 }
 ~~~
+
+# Bloque Elemento Modificador (Complementando tu aprendizaje)
+
+Bem nace por la necesidad de reutilización de un módulo en cualquier otro proyecto, si utilizamos la forma tradicional de estructurar CSS es poco probable que podamos tomar el bloque del form (Ejemplo a continuación) y dejarlo en cualquier otro proyecto y este mantenga su aspecto. Par esto Bem nos invita a segmentar las distintas secciones de una página HTML e identificarlas como bloques. 
+
+## HTML sin BEM
+~~~
+<form id="search">
+
+  <div class="content">
+
+  <input type="text" class="input">
+  <button class="buttom disable">Search</button>
+
+  </div>
+
+</form>
+~~~
+
+## CSS sin BEM
+~~~
+#search {}
+#search .content {}
+#search .content .input {}
+#search .content .button {}
+#search .content .button.disable {}
+~~~
+
+## Bloque Elemento Modificador
+Preguntas que debes hacerte para asignar los nombres a las clases
+~~~
+BLOQUE      :¿Qué es ? Un formulario de búsqueda, importante el bloque es una entidad independiente.
+ELEMENTO    :¿Cuál es su función? Contener los elementos de interacción, Elemento son hijos del bloque.
+MODIFICADOR :¿Cuál es su apariencia, estado o comportamiento?
+~~~
+
+## CSS con BEM
+~~~
+BLOQUE      :nombrebloque
+ELEMENTO    :nombrebloque__nombreElemento
+MODIFICADOR :nombrebloque__nombreElemento--nombreModificador
+~~~
+~~~
+<form class="searchform">
+
+  <div class="searchform__content">
+
+  <input type="text" class="searchform__input">
+  <button class="searchform__button searchform__buttondisable">Search</button>
+
+  </div>
+
+</form>
+~~~
+
+
+
+
+
 
 </section>
